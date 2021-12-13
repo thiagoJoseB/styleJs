@@ -1,0 +1,205 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    
+}
+
+#telaPedidos{
+    width: 1440px;
+    min-height:1286px;
+    background-color:#F4F4F4;
+    margin: auto;
+}
+
+
+
+#tooBar{
+    width: 1440px;
+    height: 68px;
+    background-color: #C4C4C4;
+    
+}
+
+#fundo{
+    width: 1440px;
+    height: 587px;
+    background-color:#F4F4F4;/*#F4F4F4;*/
+    padding-top: 109px;
+    box-sizing: border-box;
+    
+    
+}
+
+
+
+#card{
+    width:1339px;
+    height: 1008px;
+    background-color:#FFFFFF;
+/*    margin: auto;*/
+    margin-left:51px;
+    margin-right: 51px;
+    box-shadow: inset 0px 15px 20px 0px gainsboro;
+    
+}
+
+#perfil{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    border-radius: 150px;
+   margin: auto;
+    position:relative;
+    
+    
+}
+
+#person{
+    padding-top: 50px;
+     width: 200px;
+    height: 200px;
+     margin: auto;
+   
+    
+}
+#dados{
+    margin-top: 20px;
+   margin-left: 620px;
+    font-size: 15px;
+    
+}
+
+.preencher{
+ width: 100px;
+  height: 100px;
+  margin-left: 211px;
+    margin-top: 100px;
+    
+    
+}
+
+.preencher1{
+ width: 100px;
+  height: 100px;
+  margin-top: -101px;
+    margin-left: 545px;
+   
+    
+
+    
+    
+}
+
+
+.preencher2{
+ width: 100px;
+  height: 100px;
+  margin-top: -101px;
+    margin-left: 879px;
+ 
+    
+}
+
+.preencher3{
+ width: 100px;
+  height: 100px;
+  margin-top: 40px;
+    margin-left: 211px;
+     
+    
+}
+
+.tetx3{
+  width: 583px;
+  height: 30px;
+    
+}
+
+.campo3{
+  width: 578px;
+  height: 100px;
+   
+}
+
+
+.preencher4{
+ width: 100px;
+  height: 100px;
+  margin-top: -101px;
+    margin-left: 879px;
+ 
+    
+}
+
+
+
+.preencher5{
+ width: 100px;
+  height: 100px;
+  margin-top: 40px;
+    margin-left: 211px;
+ 
+    
+}
+
+.preencher7{
+ width: 100px;
+  height: 100px;
+  margin-top: -101px;
+    margin-left: 879px;
+ 
+    
+}
+
+
+.preencher6{
+ width: 100px;
+  height: 100px;
+  margin-top: -101px;
+  margin-left: 545px;  
+ 
+    
+}
+
+
+.tetx{
+  width: 249px;
+  height: 30px;
+    
+}
+
+.campo{
+  width: 249px;
+  height: 100px; 
+    
+}
+
+#salvar{
+    width:144px;
+    height:59px;
+    background-color: yellow;
+    margin-top:80px;
+    margin-left:505px;
+    
+}
+
+#cancelar{
+    width:144px;
+    height:59px;
+    background-color: red;
+    margin-top:-60px;
+    margin-left:690px;
+    
+}
+
+#entrega{
+     font-size: 1.3em;
+    padding-top: 24px;
+    padding-right: 1250px;
+   float: right;
+}
+
+
+
+
+
